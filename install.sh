@@ -24,4 +24,4 @@ cp ~/skrimDotFiles/Alacritty/* ~/.config/alacritty/
 sleep 1s
 echo "Getting the wallpaper"
 curl -o ~/Pictures/ign-waifu.png https://gruvbox-wallpapers.pages.dev/wallpapers/anime/ign-waifu.png
-echo "Sucessfully installed."
+echo "Sucessfully installed, to edit configurations go to ~/.config/waybar or hypr or alacritty and edit the config file"
