@@ -11,6 +11,7 @@ clear
 sleep 1s
 echo "Beginning installation, sit back and relax."
 echo "Creating backup of existing configuration"
+mkdir --parents ~/.config/alacritty
 mv ~/.config/hypr/hyprland.conf ~/.config/hypr/hyprland.backup
 mv ~/.config/waybar/style.css ~/.config/waybar/style.backup
 mv ~/.config/alacritty/alacritty.toml ~/.config/alacritty/alacritty.backup
