@@ -1,6 +1,7 @@
 INSTALL GUIDE!!! YAY!!! MY MIND IS NUMB!
 just run this
-also i forgot to mention you need waybar for this to work wow yeah
+
+please note: i forgot to mention you need the CaskaydiaCove Nerd Font and Waybar for this to funcion.
 
 
 
