@@ -1,0 +1,6 @@
+import = [
+  "~/node_modules/alacritty-themes/themes/Gruvbox-Dark.toml"
+]
+
+[window]
+opacity = 0.95
