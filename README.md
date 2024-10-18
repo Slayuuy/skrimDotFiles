@@ -1,7 +1,7 @@
 INSTALL GUIDE!!! YAY!!! MY MIND IS NUMB!
 just run this
 
-please note: i forgot to mention you need the CaskaydiaCove Nerd Font and Waybar for this to funcion.
+please note: i forgot to mention you need the CaskaydiaCove Nerd Font, rofi and Waybar for this to funcion.
 
 
 
