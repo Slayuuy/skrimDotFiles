@@ -5,4 +5,4 @@ please note: i forgot to mention you need the CaskaydiaCove Nerd Font, rofi, hyp
 
 
 
-``git clone https://github.com/Slayuuy/skrimDotFiles/ ~/skrimDotFiles && cd ~/skrimDotFiles && chmod +x install.sh && ./install.sh``
+``git clone https://github.com/okthela/skrimDotFiles/ ~/skrimDotFiles && cd ~/skrimDotFiles && chmod +x install.sh && ./install.sh``
